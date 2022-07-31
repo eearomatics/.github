@@ -19,8 +19,6 @@ Our website, portfolio, blog, and more are managed using various technologies. S
 - [Terraform](https://www.terraform.io/)
 - [GitHub Actions](https://github.com/features/actions)
 
-<br />
 <hr />
-<br />
 
 <i>&copy; Ethereal Elegance Design, LLC</i>
