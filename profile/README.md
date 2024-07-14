@@ -10,22 +10,27 @@
           <td>
             <main>
               <blockquote>
-                <i>Providing event design services to bring your dream aesthetic into reality</i>
+                <div><i>We craft unique aromatic products with the use of various divination tools.</i></div>
+                <br/>
+                <div><i>We also accomplish this with various software and hosting tools.</i></div>
+                <br/>
+                <div><i>Step in and find out some more.</i></div>
               </blockquote>
               <br />
-              <p>Our website, portfolio, blog, and more are managed using various technologies. Some of these include</p>
+              <p>Our website, commerce, and other tools are managed using various technologies. Some of these include</p>
               <ul>
-                <li><a href="https://keystonejs.com/">KeystoneJS</a></li>
-                <li><a href="https://nextjs.org/">NextJS</a></li>
-                <li><a href="https://graphql.org/">GraphQL</a></li>
-                <li><a href="https://neon.tech">Neon</a></li>
-                <li><a href="https://workers.cloudflare.com/">Cloudflare Workers</a></li>
-                <li><a href="https://www.cloudflare.com/products/r2/">Cloudflare R2</a></li>
-                <li><a href="https://www.terraform.io/">Terraform</a></li>
+                <li><a href="https://canva.com/">Canva</a></li>
+                <li><a href="https://squareup.com/">Square</a></li>
+                <li><a href="https://cloudflare.com/">Cloudflare</a></li>
+                <li><a href="https://zoho.com">Zoho</a></li>
+                <li><a href="https://stripe.com">Stripe</a></li>
+                <li><a href="https://paypal.com">PayPal</a></li>
+                <li><a href="https://opentofu.org/">OpenTofu</a></li>
+                <li><a href="https://googlechrome.github.io/lighthouse-ci/">Lighthouse CI</a></li>
                 <li><a href="https://github.com/features/actions">GitHub Actions</a></li>
               </ul>
               <hr />
-              <i>&copy; Ethereal Elegance Design, LLC</i>
+              <i>&copy; 2024 Ethereal Elegance Aromatics, LLC</i>
             </main>
           </td>
       </tr>
