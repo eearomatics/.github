@@ -20,11 +20,10 @@
               <p>Our website, commerce, and other tools are managed using various technologies. Some of these include</p>
               <ul>
                 <li><a href="https://canva.com/">Canva</a></li>
-                <li><a href="https://squareup.com/">Square</a></li>
+                <li><a href="https://shopify.com/">Shopify</a></li>
                 <li><a href="https://cloudflare.com/">Cloudflare</a></li>
                 <li><a href="https://zoho.com">Zoho</a></li>
-                <li><a href="https://stripe.com">Stripe</a></li>
-                <li><a href="https://paypal.com">PayPal</a></li>
+                <li><a href="https://nixos.org/">Nix</a></li>
                 <li><a href="https://opentofu.org/">OpenTofu</a></li>
                 <li><a href="https://googlechrome.github.io/lighthouse-ci/">Lighthouse CI</a></li>
                 <li><a href="https://github.com/features/actions">GitHub Actions</a></li>
