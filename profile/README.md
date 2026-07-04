@@ -29,7 +29,7 @@
                 <li><a href="https://github.com/features/actions">GitHub Actions</a></li>
               </ul>
               <hr />
-              <i>&copy; 2024 Ethereal Elegance Aromatics, LLC</i>
+              <i>&copy; 2026 Ethereal Elegance Aromatics, LLC</i>
             </main>
           </td>
       </tr>
